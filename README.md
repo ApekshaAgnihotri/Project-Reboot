@@ -3,7 +3,7 @@
 The Dataset is taken from a kaggle competition.
 
 #### Problem Statement:
-Identify whether the tweet is about a real disaster of not.
+Identify whether the tweet is about a real disaster or not.
 
 ### Objective of the Project:
 <ol>
